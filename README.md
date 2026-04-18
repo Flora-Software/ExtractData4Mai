@@ -1,7 +1,7 @@
 # ExtractData4Mai
 
 用于从 maimai/Sinmai 的游戏资源目录中提取数据，并生成以下 JSON 文件：
-
+1
 - `partner.json`
 - `plate.json`
 - `title.json`
